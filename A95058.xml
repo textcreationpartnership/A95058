@@ -1,0 +1,408 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The True intelligence sent to this kingdome, concerning the taking in of the town of New-castle with copies of the letters and other passages that occurred betwixt our army and those in the town : as also the surrender of the castle thereof.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95058</idno>
+            <idno type="STC">Wing T2712</idno>
+            <idno type="STC">ESTC R43791</idno>
+            <idno type="EEBO-CITATION">42475247</idno>
+            <idno type="OCLC">ocm 42475247</idno>
+            <idno type="VID">151405</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95058)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151405)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2258:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The True intelligence sent to this kingdome, concerning the taking in of the town of New-castle with copies of the letters and other passages that occurred betwixt our army and those in the town : as also the surrender of the castle thereof.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Evan Tyler ...,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: cropped, stained, and tightly bound, with loss of text.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns.</term>
+               <term>Newcastle-under-Lyme (England).</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Apex CoVantage</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2011-06</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Apex CoVantage</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2011-09</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151405:1" rendition="simple:additions"/>
+            <p> INTELLIGENCE SENT TO THIS KINGDOME, CONCERNING THE TAKING IN OF THE TOWN OF NEW-CASTLE: WITH</p>
+            <p>Copies of the Letters, and other Paſſages, that occurred betwixt our Army and thoſe in the Town.</p>
+            <p>AS ALSO <hi>The ſurrender of the</hi> CASTLE <hi>thereof.</hi>
+            </p>
+            <p>EDINBURGH, Printed by <hi>Evan Tyler,</hi> Printer to the Kings moſt Excellent Majeſtie. 1644.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:151405:2"/>
+            <pb facs="tcp:151405:2"/>
+            <head>For the Right Honourable, the Earle of LAUDERDAILE.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T hath pleaſed God of his infinite goodneſſe, to grant to us a glorious and happy Victory in gaining of this Town, without any conſide<g ref="char:EOLhyphen"/>rable Loſſe; for which we have all great cauſe to praiſe God, and to acknowledge his mercies, even to outreach our very expectati<g ref="char:EOLhyphen"/>ons; For I muſt confeſſe ingeniouſly, that I have never ſeen any Town all my Life-time kept and defended with greater reſolution, continuing in a moſt conſtant obſtinacy, till the very laſt; and Gods Providence appeare more in animating of our Officers and Souldi<g ref="char:EOLhyphen"/>ers in generall, againſt ſo hard oppoſitions and difficulties. The particulars of what lately paſt, your Lordſhip may be pleaſed to receive encloſed herewith, and to communicate the ſame with my Lord <hi>Crawford</hi> and the Com<g ref="char:EOLhyphen"/>mittee of Eſtates. This much in haſte, Ireſt</p>
+            <closer>
+               <dateline>Newcaſtle <date>20. Octob. 1644.</date>
+               </dateline>
+               <signed>Your Lordſhips moſt humble ſervant Leuen.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:151405:3"/>
+            <head>Copie of Summonds ſent to the Town of <hi>Newcaſtle,</hi> Octob. 14. 1644.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>
+                     <seg rend="decorInit">W</seg>Ee <hi>Alex.</hi> Earle of <hi>Leven,</hi> Lord Generall of the Scottiſh Armies, that it may be the more mani<g ref="char:EOLhyphen"/>feſt, and appear to all, how exceedingly we deſire you to prevent all thoſe evils, which cannot be longer avoided. Notwithſtanding you have been formerly invited by our ſeverall Letters, in all fair manner, to think on thoſe wayes which might conduce moſt to your wel<g ref="char:EOLhyphen"/>being; Do by theſe preſents require and ſummond you, to give up and ſurrender the Town of Newcaſtle to us, for the uſe of King and Parliament; that Citizens and Souldiers may be ſafe: and the Town being preſerved from ruine, may enjoy the fruits of ſettled peace, whereof other Townes reduced to the ſame obedience, do liberally taſte. You are likewiſe ear<g ref="char:EOLhyphen"/>neſtly deſired, by no means to conceale this our laſt offer and warning to the Citizens and Souldiers, as you will be anſwer<g ref="char:EOLhyphen"/>able to God and them whom it may concerne. If in theſe things you faile, you may expect the extremities of Warre. And we profeſſe our ſelves, and the Army under our conduct, altogether free and innocent of whatſoever bloud-ſhed and o<g ref="char:EOLhyphen"/>ther calamities may enſue, through your obſtinacy. Hereto we expect a preſent anſwer. Given</p>
+                  <trailer>For Maſter Major, Aldermen, and Common Councell of the Town of Newcaſtle.</trailer>
+                  <closer>
+                     <signed>Sic ſubſcribitur LEVEN.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="3" facs="tcp:151405:3"/>
+                  <head>From the Major of Newcaſtle, Octob. 14.</head>
+                  <p>MY Lord, I received your Letter this afternoon, at al<g ref="char:EOLhyphen"/>moſt five a clock: It is directed to Major, Aldermen, and Common Councell: And it is for no leſſe mat<g ref="char:EOLhyphen"/>ter then the delivering up of the Town to you, (as you ſay for King and Parliament) no Conditions, but to ſtand to your mercy. But I will not take upon me abſolutely to give anſwer my ſelf, neither will I conceale it from any it con<g ref="char:EOLhyphen"/>cernes; yet I hope you are not in ſo great haſte, but I may take time to give you a full anſwer the morrow, at or before this time, when you may by Gods aſsiſtance, certainly expect it. And in the mean time I take leave, and reſt</p>
+                  <closer>
+                     <signed>Your Lordſhips friend, JO. MORLEY.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>MY Lord, we have received your Letter, wherein you require and ſummond us to give up and ſurrender the Town, as you ſay, for the uſe of King and Parlia<g ref="char:EOLhyphen"/>ment; alleadging diverſe Reaſons, mixt with Threats, to per<g ref="char:EOLhyphen"/>ſwade us thereunto. All which we have well weighed and conſidered: and as formerly, ſo now returnes this Anſwer; That we declare to you, and to all the world, That we keep this Town for the uſe of his Majeſtie: And that we have full power and authority from his Majeſtie ſo to do. And if either you, or any other can ſhew us better, or later Warrant from his Majeſtie to demand it, wee will ſubmit. And although we neither dare, nor will acknowledge that diſloyaltie to our lawfull King (which you call, reducing to juſt obedience) is the way to preſerve us from ruine, and to enjoy the fruits of a ſettled Peace; yet that you and all the world may ſee, wee
+<pb n="3" facs="tcp:151405:4"/> deſire <hi>To ſhun the effuſion of Chriſtian bloud;</hi> wee deſire you to ſend us in writing, upon what Termes and Conditions you would have us deliver up the Town, and then we ſhall return you a further Anſwer (which we hope will be ſatisfactory:) And if this will not give you content, proceede and proſper as your Cauſe requires: and let the Bloud that is, or ſhall bee ſpilt, lye upon their ſoules and conſciences that deſerve it: And if wee be the fault, let this ſubſcribed under our hand te<g ref="char:EOLhyphen"/>ſtifie againſt us.</p>
+                  <closer>
+                     <dateline>Newcaſtle <date>15. Octob. 1644.</date>
+                     </dateline>
+                     <signed>Sic ſubſcribitur
+<list>
+                           <item>John Morley.</item>
+                           <item>Nicholas Cole.</item>
+                           <item>Thomas Lyddell.</item>
+                           <item>Thomas Ryddell.</item>
+                           <item>Nicholas Tempeſt.</item>
+                           <item>Alex: Daviſon.</item>
+                           <item>Francis Bowes.</item>
+                           <item>Raph Cole.</item>
+                           <item>Leonard Carr.</item>
+                           <item>Robert Sherflo.</item>
+                           <item>James Cole.</item>
+                           <item>Mar. Milbank.</item>
+                           <item>Cuthbert Carr.</item>
+                           <item>Edward Stote.</item>
+                           <item>Thom. Blenkincope.</item>
+                           <item>Samuel Cork.</item>
+                           <item>Oſwald Mathie.</item>
+                           <item>Tho. Madiſane.</item>
+                           <item>Henry Rowcaſtle.</item>
+                           <item>Thomas Clarke.</item>
+                           <item>Charles Clarke.</item>
+                           <item>William Corke.</item>
+                           <item>Gabriel Robiſon.</item>
+                           <item>William Harope.</item>
+                           <item>John Blackburne.</item>
+                           <item>William Robiſone.</item>
+                           <item>Will: Armſtrong.</item>
+                           <item>Anthony Younger.</item>
+                           <item>Will: Archbald.</item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>
+                        <pb n="4" facs="tcp:151405:4"/> Right Worſhipfull, &amp;c.</salute>
+                  </opener>
+                  <p>WE received your Anſwer to our laſt, wherein as in all former Letters, we conceive we have uſed no threats, but fair and peaceable expreſſions, ſuch as are ordinary in diffe<g ref="char:EOLhyphen"/>rences of this kinde: But that our conſtant deſire to ſhun the effuſion of Blood, and the ſincerety of our loyal Intentions, may more and more appear to you and all the World, we deſire that without any further delay, Hoſtages may be ſent from either ſide, and judicious men appointed to Treat on ſuch termes and conditions, as may put a happy end to the Buſineſſe; And to meet in ſuch a place between the Town and Campe, or within the Town, as ſhall be thought fitting by you. Hereto wee expect your Anſwer, And remaine</p>
+                  <trailer>To Maſter Maior, Aldermen, and Common-Councell of the Town of Newcaſtle.</trailer>
+                  <closer>
+                     <dateline>
+                        <date>Octob. 15.</date>
+                     </dateline>
+                     <signed>Your Loving friend LEVEN.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Right Worſhipfull, &amp;c.</salute>
+                  </opener>
+                  <p>I Have been ſtill expecting your Anſwer to my laſt, where<g ref="char:EOLhyphen"/>in it was deſired, That Hoſtages might be ſent, and a place appointed for Treaty: but now ſince you have returned none, we do hereby exhonour our ſelves; That all the World may know how deſirous we have been of the ſafety and peace of your Town, as this and our former Letters will bear wit<g ref="char:EOLhyphen"/>neſſe for us againſt your obſtinacy: And this we are confident God will bleſſe us according to the integrity of our Intenti<g ref="char:EOLhyphen"/>ons. So I leave, and reſt</p>
+                  <closer>
+                     <dateline>
+                        <date>16. Octob.</date> 3. a clock afternoone.</dateline>
+                     <signed>Your friend LEVEN.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>
+                        <pb n="6" facs="tcp:151405:5"/> My Lord,</salute>
+                  </opener>
+                  <p>WE received your ſecond Letter directed as the for<g ref="char:EOLhyphen"/>mer; and upon good conſiderations, we could have wiſht that according to our deſires in our former Letters, you would have ſent in writing the conditions and termes you deſire the Town upon; That we might altogether have conſidered and condeſcended to what had been fitting and convenient for us to grant. But ſince you like not that courſe, but deſires Hoſtages may be ſent, and ſome appointed to meet, and treat, at a time and place convenient. We muſt acknowledge and confeſſe that we doe not hold that power in us to grant, as Major, Aldermen, and Common Councell: But ſolely to be in the Major, as he is Governour of the Milita<g ref="char:EOLhyphen"/>ry, who we finde very willing to condeſcend to any thing that may tend to <hi>The honour of his Majeſtie, The welfare of Newcaſtle,</hi> and <hi>The ſhunning eſſuſion of Blood,</hi> if you pleaſe to write unto him for that purpoſe. And ſo wiſhing a happy and honoura<g ref="char:EOLhyphen"/>ble peace in all his Majeſties Dominions, We reſt</p>
+                  <closer>
+                     <dateline>Newcaſtle, <date>16. Octob. 1644.</date>
+                     </dateline>
+                     <signed>Your loving friends <hi>Subſcribitur</hi> as the other Letter by Major, Aldermen, and Common-Councell</signed>
+                  </closer>
+                  <trailer>For his Excellence the Earle of <hi>Leven,</hi> Generall of the Scottiſh Armie.</trailer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Right Worſhipfull,</salute>
+                  </opener>
+                  <p>I Conceived for your further exoneration, it had been moſt fitting to write to your ſelf, as Maſter Major, Aldermen, and Common-Councell: But now ſeeing I underſtand by themſelves, that the power is ſolely in your ſelf, as Gover<g ref="char:EOLhyphen"/>nour of the Military affairs; I will uſe your way, and ſhall here
+<pb n="7" facs="tcp:151405:5"/> repeat my former deſire, that Hoſtages may be ſent, and a place appointed without further delay, to meet and treat on ſuch things as may moſt tend to <hi>The honour of his Majeſtie,</hi> and <hi>Wele of Newcaſtle:</hi> Being alwayes moſt willing <hi>To ſhun all the occaſions of effuſion of Blood.</hi> Hereto we expect your Anſwer the morrow before 10. a clock. And that ye will likewiſe make known to us the names and qualities of Hoſtages; And ſuch as you think fit to nominate to treat, and the place ap<g ref="char:EOLhyphen"/>pointed for meeting, according as ours ſhall be ready againſt the ſame time. Thus I reſt</p>
+                  <trailer>
+                     <hi>For the Right Worſhipfull, Sir <hi>John Morley</hi> Knight, Maſter Major, and Governour of Newcaſtle.</hi>
+                  </trailer>
+                  <closer>
+                     <dateline>
+                        <date>16 Octob. 1644.</date>
+                     </dateline>
+                     <signed>Your loving friend LEVEN.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>My Lord,</salute>
+                  </opener>
+                  <p>I Received your Letter ſo late that I was forced to keep your Drummer all night: And I am very glad to ſee that you and I aime both at one end; Which is, <hi>His Majeſties Honour, Newcaſtles Welfare,</hi> and <hi>The avoiding effuſion of Blood:</hi> And I wiſh thoſe that treat, may be of the ſame minde: But whereas you deſire me to name Hoſtages, and men to treat: I muſt deſire you to name yours, and I ſhall ſute them aſwell as I can, for you know there is no Noblemen with me, but two of your own Countreymen; yet we have Knights and other Gentlemen of good eſteeme: Iſhall alſo deſire that there may be but three appointed to treat, and each to bring but one man, and know what Guard you will ſend with your Hoſta<g ref="char:EOLhyphen"/>ges, that I may ſend the like; the place of Exchange and Trea<g ref="char:EOLhyphen"/>ty may be at Newcaſtle. And when I know your minde in thoſe things, we ſhall appoint the time of meeting. And if
+<pb n="8" facs="tcp:151405:6"/> we hold cloſe and ſincerely to theſe ends by you propoſed, I doubt not but God will bleſſe our endeavours, and ſet us at peace, and I hope, in his good time, theſe diſtracted King<g ref="char:EOLhyphen"/>doms; which that it may be, ſhall be the daily prayer of</p>
+                  <closer>
+                     <signed>Your loving friend John Morley.</signed>
+                     <dateline>Newcaſtle <date>16. Octob.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>After the Committee did ſit, a Letter was written by Maſter <hi>Primeroſe,</hi> appointing Thurſday the 17. at 12. a Clock, to Treat at Newcaſtle, the names of the Commiſſioners ſent in, <hi>viz.</hi> The Lord <hi>Humby,</hi> Sir <hi>David Hume</hi> of Wedder<g ref="char:EOLhyphen"/>burne, and the Proveſt of Jedburgh, whereupon the fol<g ref="char:EOLhyphen"/>lowing Anſwer was returned.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>My Lord,</salute>
+                  </opener>
+                  <p>I Received your Letter, and do approve of thoſe men you name to Treat, being all ſtrangers to me: And likewiſe, that there is no neceſsity of a Guard, onely one Officer to meet them at the place appointed. But you deſire that the meeting may be this day at 12. a Clock: And that I will ſend the names of theſe I intend to appoint as Hoſtages, to be ex<g ref="char:EOLhyphen"/>changed at the time and place above-mentioned; which is impoſsible, for I received your Letter half hour after 12. And certainly you mean not 12. at night; But I will keep promiſe, and to that purpoſe, this night I will ſend you the names of the Hoſtages I intend to ſend to the place appointed; and the time to be the morrow at 9. a Clock in the fore-noone: As for thoſe that are to Treat, I intend to ſupply the place of one my ſelf, and ſhall ſend you the names of the reſt; And ſo wiſhing a happy end to thoſe and all the Troubles of his Ma<g ref="char:EOLhyphen"/>jeſties Dominions, I reſt</p>
+                  <closer>
+                     <signed>Your loving friend John Morley.</signed>
+                     <dateline>Newcaſtle <date>17. Octob. 1644.</date>
+                     </dateline>
+                  </closer>
+                  <trailer>For his Excellence, the Earle of <hi>LEVEN.</hi>
+                  </trailer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>
+                        <pb facs="tcp:151405:6"/> My Lord,</salute>
+                  </opener>
+                  <div type="letter_proper">
+                     <p>ACcording to promiſe, I ſend you the names of the Ho<g ref="char:EOLhyphen"/>ſtages, and of thoſe appointed to Treat; and ſhall keep the time and place mentioned in my former Letter, and have ſet down their names here under: I will ſay no more, but de<g ref="char:EOLhyphen"/>ſire that during the time of the Treaty thoſe courſes may be holden which is accuſtomed in War. And ſo expecting your Anſwer by this Drummer, I reſt</p>
+                     <closer>
+                        <signed>Your loving friend Jo. Morley.</signed>
+                        <dateline>Newcaſtle <date>17. Octob. 1644.</date>
+                        </dateline>
+                     </closer>
+                  </div>
+                  <div type="enclosure">
+                     <list>
+                        <head>Gentlemen appointed for the Treaty.</head>
+                        <item>Sir <hi>John Morley,</hi> Knight and Governour.</item>
+                        <item>Sir <hi>Nicholas Cole</hi> Knight Baronet.</item>
+                        <item>Sir <hi>George Baker</hi> Knight, and a Secretary.</item>
+                     </list>
+                     <list>
+                        <head>Hoſtages.</head>
+                        <item>Colonell <hi>Charles Brandling.</hi>
+                        </item>
+                        <item>Lieutenant Colonell <hi>Thomas Daviſone.</hi>
+                        </item>
+                        <item>Captain <hi>Cuthbert Carr,</hi> late Sheriffe of <hi>Newcaſtle.</hi>
+                        </item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Whereupon Anſwer was returned, That all ſhould be ob<g ref="char:EOLhyphen"/>ſerved as was appointed.</p>
+            <p>Upon Friday 18. at 10. a clock our Commiſsioners went in, and ſtayed till 4. a clock in the afternoon, but had no ſa<g ref="char:EOLhyphen"/>tisfaction to any of their demands, the Maior not ſuffering any thing to come in writ, but jeering all the time, deſiring they might have 2. dayes to adviſe, and thereafter they would give Anſwer: So upon Friday at 8. a clock at night this Letter following was ſent forth by them.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>
+                        <pb n="10" facs="tcp:151405:7"/> My Lord,</salute>
+                  </opener>
+                  <p>WE have had ſome diſcourſe this day with your Com<g ref="char:EOLhyphen"/>miſsioners, but you have bound them to have our Anſwers to your Demands in ſo ſhort a time, as we could not give them that ſatisfaction we would gladly, conſidering they demanded that which was not according to your Propoſiti<g ref="char:EOLhyphen"/>ons, namely, <hi>His Majeſties honour,</hi> and <hi>The welfare of Newcaſtle:</hi> But we are ſo unwilling to ſee Chriſtian blood ſhed, as if that you reſt ſatisfied untill Munday, we ſhall then, God willing, ſend you Propoſitions which we hope will give content. If this will not ſerve, we truſt God will deliver us out of your hands. And ſo we reſt</p>
+                  <closer>
+                     <dateline>Newcaſtle <date>18. Octob. 1644.</date>
+                     </dateline>
+                     <signed>Your loving friends
+<list>
+                           <item>John Morley.</item>
+                           <item>Nicholas Cole.</item>
+                           <item>G. Baker.</item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>At 10. a clock at night I cauſed conveene the Committee, and did reſolve to ſend in Propoſitions that night to them, which went in about 12. a clock at night: The effect where<g ref="char:EOLhyphen"/>of was;</p>
+            <p n="1">1. <hi>That all Officers and Souldiers ſhould have liberty to go away with flying Colours, full Arms, Bag and Baggage, and ſhould have a Safe-conduct to any of the Kings Gariſons within 60 miles of Newcaſtle.</hi>
+            </p>
+            <p n="2">2. <hi>That all ſuch as had a minde to ſtay and go to their own hou<g ref="char:EOLhyphen"/>ſes, ſhould be protected, and have a ſafegard for their perſons, fa<g ref="char:EOLhyphen"/>milies, and goods.</hi>
+            </p>
+            <p n="3">3. <hi>That all Strangers, Reſidents within the Town, ſhould have the like, with liberty to go to their own dwellings in the Countrey about.</hi>
+            </p>
+            <p n="4">
+               <pb facs="tcp:151405:7"/> 4. <hi>That all Burgeſſes and Towneſmen ſhould have free liberty and Trade, as other Towns reduced to obedience of King and Par<g ref="char:EOLhyphen"/>liament.</hi>
+            </p>
+            <p n="5">5. <hi>That they ſhould have their perſons, houſes, eſtates, and goods protected, and be liable to no other Seſſes or Contributions, but as other Towns reduced to the obedience foreſaid.</hi>
+            </p>
+            <p n="6">6. <hi>That they were to be free from all free Billetting and Quar<g ref="char:EOLhyphen"/>tering, and none of the Armie to come into the Town but a compe<g ref="char:EOLhyphen"/>tent Gariſon.</hi>
+            </p>
+            <p n="7">7. <hi>That if they would imbrace theſe conditions, they were to ſend forth ſufficient Hoſtages for delivery up of the Town within two dayes thereafter upon Saterday 19 by nine a clock.</hi>
+            </p>
+            <p>Whereupon the following Letter was ſent forth about the ſame time.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>My Lord,</salute>
+                  </opener>
+                  <p>WEe received your Letter, wherein you ſay, wee cannot make good, that your Commiſsioners De<g ref="char:EOLhyphen"/>mands are againſt either <hi>His Majeſties honour,</hi> or <hi>The welfare of Newcaſtle;</hi> wee will give you but one reaſon a<g ref="char:EOLhyphen"/>mongſt many: Whether it be for <hi>His Majeſties honour,</hi> that the Town of Newcaſtle ſhould bee delivered to any of another Nation? Nay more, If it be for the honour of the Engliſh Par<g ref="char:EOLhyphen"/>liament? And that it is not <hi>For our welfare,</hi> is ſo clear, needs no Anſwer. And whereas you ſay, <hi>You wonder we are not aſhamed to be ſodilatory, having demanded a Treaty;</hi> We ſay, We wonder you can be ſo forgetfull, knowing wee have your Letter to ſhew, that the Treaty was your own motion. But for anſwer to the reſt, and to your Articles, We ſay, The delivery of New<g ref="char:EOLhyphen"/>caſtle is not of ſo ſmall moment: But if you intend (as you ſay) time may well be given untill Monday, for giving An<g ref="char:EOLhyphen"/>ſwer; for in caſe we ſhould give conſent to let you have the
+<pb facs="tcp:151405:8"/> Towne: There is divers more Articles then you have ſet down, both fit for us to demand, and you to grant: Therefore if you would <hi>ſhun effuſion of Bloodſhed,</hi> as you profeſſe, forbear your Acts of hoſtility, untill we give you Anſwer upon Mon<g ref="char:EOLhyphen"/>day, wherein we will not faile: Otherwiſe we doubt not but God will require an account at your hands; And beſides, will keep and preſerve us from your furie. So expecting your An<g ref="char:EOLhyphen"/>ſwer, we reſt</p>
+                  <trailer>For his Excellence the Earle of <hi>Leven,</hi> Generall of the Scottiſh Armie.</trailer>
+                  <closer>
+                     <dateline>Newcaſtle <date>19. Octob. 1644.</date>
+                     </dateline>
+                     <signed>Your friends
+<list>
+                           <item>John Morley.</item>
+                           <item>Nicholas Cole.</item>
+                           <item>G. Baker.</item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>UPon Saturday 19. Order being given the day before to all Commanders at their ſeverall Poſts round a<g ref="char:EOLhyphen"/>bout, for their way in ſtorming and entring the walls and Town, after they ſhould ſee a fire made on at two ſeverall places, Elſwich &amp; Sheilfield. Our Cannon began to play at day light in braſhing the walls at five ſeverall places, and did con<g ref="char:EOLhyphen"/>tinue very hotly till three in the afternoon, about which time two Mynes were ſprung, one at Sandgate in the Lord <hi>Sinclars</hi> Quarters; and the other at Whitefrier Tower, neere Cloſe<g ref="char:EOLhyphen"/>gate; ſome foure or five Mynes being counter-myned by the Enemie within the Town, and ſpoiled before thir were ready; who were likewiſe very diligent to get the two laſt undone. And (as we conceive) did ſeek for delayes till Monday only for the ſame purpoſe. After 3 a clock the fires were made on: The walls manfully defended round about. Our People went on at their ſeverall Poſts and Braſhes, did enter very bravely and
+<pb n="13" facs="tcp:151405:8"/> couragiouſly, without once recoyling, notwithſtanding there could not be greater oppoſition made: Our Men were ſo eager, that theſe who were appointed for Reſerves at ſome Poſts, did all enter alſo, ſo that we were forced to ſend Horſe<g ref="char:EOLhyphen"/>men to ſtand in their places. After very hot skirmiſhing with<g ref="char:EOLhyphen"/>in the walls for a whole houres time and more, it pleaſed God to grant us a very happy and conſiderable Victory, in gaining the whole walls and Town. The Lord <hi>Crawfurd,</hi> Major, and many others, are retired within the Caſtle, and are calling for Quarters to yeeld the ſame, whereof you may expect an ac<g ref="char:EOLhyphen"/>compt ſhortly; as alſo of what Men we have loſt, who are but very few. Our Officers and Souldiers were all very mercifull in ſparing the lives of the Officers, Souldiers and Townſmen, after they had won the Town.</p>
+            <div type="part">
+               <pb n="14" facs="tcp:151405:9"/>
+               <head>The ſurrender of the Caſtle and Priſoners. New-caſtle 21. October 1644.</head>
+               <p>ON the Lords Day we gave thanks to God in the chief<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Kirk of the Towne, and that Day the Governour wrote to the Generall, deſiring that he and the Gentlemen, and Miniſters with him, might have liberty to go to the King, or where they pleaſed, with their Horſes, Swords, and Piſtols: This Letter was neglected, and not anſwered. Upon Tueſday the 22. the Miniſters, <hi>viz.</hi> Doctor <hi>Gray</hi> of Pontiland, Maſter <hi>George Wiſhart, Vicar Alvey,</hi> and Maſter <hi>Walter Lamonth,</hi> wrote an humble ſupplication to the Generall, ſubmitting them<g ref="char:EOLhyphen"/>ſelves and their fortunes, to grace and favour; whereupon they were ſuffered to come out and render themſelves Priſoners. The Major and ſome Captains with him, came out upon the like terms. <hi>Lodovick Lindſay</hi> ſometime Earl of Crawfurd, my Lord <hi>Maxwell,</hi> and ſome other Scottiſh-men are priſoners alſo, and kept in the Caſtle (now rendred) by a Gariſon of our Souldiers. This day alſo ſummonds were ſent to the Caſtle of Tinmouth, what anſwer is received, you ſhall hear by the next.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
